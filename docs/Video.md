@@ -7,7 +7,7 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/CatSnackBar.mp4"></video>
 
 ## 装扮换装游戏
@@ -19,7 +19,7 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/FurnishUp.mp4"></video>
 
 ## 开个美容院
@@ -31,7 +31,7 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/MyBeautyLounge.mp4"></video>
 
 ## 我有座小岛
@@ -43,7 +43,7 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/Dreamdale.mp4"></video>
 
 ## 火柴人派对
@@ -55,7 +55,7 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/HyperRoyale.mp4"></video>
 
 ## 字母跑酷
@@ -67,5 +67,5 @@
 	controlslist="nodownload noplaybackrate"
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
-    style="max-width:1536px;max-height:864px"
+    style="max-width:1344px;max-height:756px"
 	src="https://119.91.196.91/cdn/Video/TypeSpin.mp4"></video>
