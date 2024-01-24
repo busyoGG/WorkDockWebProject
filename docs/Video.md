@@ -10,7 +10,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/CatSnackBar.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/20240124-195440-28.mp4"></video>
 
 ## 装扮换装游戏
 
@@ -22,7 +22,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/FurnishUp.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/FurnishUp.mp4"></video>
 
 ## 开个美容院
 
@@ -34,7 +34,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/MyBeautyLounge.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/MyBeautyLounge.mp4"></video>
 
 ## 我有座小岛
 
@@ -46,7 +46,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/Dreamdale.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/20240124-183147-963.mp4"></video>
 
 ## 火柴人派对
 
@@ -58,7 +58,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/HyperRoyale.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/HyperRoyale.mp4"></video>
 
 ## 字母跑酷
 
@@ -70,4 +70,4 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/TypeSpin.mp4"></video>
+	src="https://img.busyo.buzz/imgUpload/TypeSpin.mp4"></video>
