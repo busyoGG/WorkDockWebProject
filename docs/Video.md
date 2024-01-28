@@ -7,7 +7,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://busyo-video-1308796773.cos.ap-guangzhou.myqcloud.com/%5BSHANA%5DFurnishUp.mov"></video>
+	src="https://119.91.196.91/cdn/Video/%5BSHANA%5DFurnishUp.mov"></video>
 
 ## 喵大人的店
 
