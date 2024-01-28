@@ -111,7 +111,7 @@ window.AfterProcess = {
     for (let i = 0, len = eles.length; i < len; i++) {
       let child = eles[i];
 
-      if (i > 1 ) {
+      if (i > 1) {
         child.className = "ul_close";
       }
 
@@ -156,10 +156,27 @@ window.AfterProcess = {
     // }
   },
 
+  InitVideo: () => {
+    // if (flvjs.isSupported()) {
+    //   eles = document.getElementsByTagName("video");
+    //   for (let i = 0; i < eles.length; i++) {
+    //     var videoElement = eles[i];
+    //     var flvPlayer = flvjs.createPlayer({
+    //       type: "mov",
+    //       url: videoElement.src,
+    //     });
+    //     flvPlayer.attachMediaElement(videoElement);
+    //     flvPlayer.load();
+    //   }
+    //   // flvPlayer.play();
+    // }
+  },
+
   Init: () => {
     console.log("初始化界面");
     AfterProcess.ResetCodeStyle();
     AfterProcess.ResetTitle();
+    AfterProcess.InitVideo();
     setTimeout(() => {
       AfterProcess.ResetList();
     }, 1);

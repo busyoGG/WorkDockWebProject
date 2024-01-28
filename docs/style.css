@@ -32,3 +32,13 @@ pre {
     content: '';
     margin-top: -32px;
 } */
+
+video {
+    width: auto; /* 初始宽度为视频原始宽度 */
+    max-width: 100% !important; /* 当视频超出父容器时，最大宽度为父容器宽度 */
+    min-width: auto; /* 当视频没有超出父容器时，最小宽度为视频原始宽度 */
+    height: auto; /* 根据视频的纵横比自动调整高度 */
+    max-height: 70vh !important; /* 当视频超出父容器时，最大高度为父容器宽度 */
+    min-height: auto; /* 当视频没有超出父容器时，最小宽度为视频原始高度 */
+    object-fit: contain; /* 视频内容保持原始宽高比，尽可能大地适应容器 */
+}
