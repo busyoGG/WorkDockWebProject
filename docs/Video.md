@@ -1,5 +1,15 @@
 # 项目视频
 
+## 测试
+<video
+	controls
+	controlslist="nodownload noplaybackrate"
+	disablePictureInPicture="true"
+	disableRemotePlayback="true"
+    style="max-width:1344px;max-height:756px"
+	src="http://s7z03hfgl.hd-bkt.clouddn.com/FurnishUp.mp4"></video>
+
+
 ## 喵大人的店
 
 微信平台
