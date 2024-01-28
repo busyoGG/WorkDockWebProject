@@ -7,9 +7,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://gitee.com/pentaxiu/pic-dock/raw/master/video/FurnishUp.mp4"></video>
-
-![](https://gitee.com/pentaxiu/pic-dock/raw/master/2023/09/upgit_20230901_1693548501.png)
+	src="https://busyo-video-1308796773.cos.ap-guangzhou.myqcloud.com/FurnishUp.mp4"></video>
 
 ## 喵大人的店
 
