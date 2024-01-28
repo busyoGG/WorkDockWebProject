@@ -7,7 +7,7 @@
 	disablePictureInPicture="true"
 	disableRemotePlayback="true"
     style="max-width:1344px;max-height:756px"
-	src="https://119.91.196.91/cdn/Video/%5BSHANA%5DFurnishUp.mov"></video>
+	src="https://spup.buzz/[SHANA]FurnishUp.mov"></video>
 
 ## 喵大人的店
 
