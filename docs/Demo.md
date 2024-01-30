@@ -38,6 +38,10 @@
 
 <video src="https://spup.buzz/2024-01-29-04-45-41.mov"></video>
 
+### 新增无法攀爬物体
+
+<video src='https://spup.buzz/2024-01-30-23-49-57.mov'></video>
+
 ## 对话系统
 
 <video src="https://spup.buzz/2024-01-29-04-45-30.mov"></video>
