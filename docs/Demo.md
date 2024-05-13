@@ -1,5 +1,15 @@
 # Demo 视频
 
+## GraphView 框架
+
+### 节点操作
+
+<video src='https://video.spup.buzz/2024-05-12-02-58-56.mov'></video>
+
+### 文件操作
+
+<video src='https://video.spup.buzz/2024-05-12-02-58-51.mov'></video>
+
 ## UI 框架
 
 ### 基本功能
