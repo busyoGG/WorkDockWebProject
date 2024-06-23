@@ -10,6 +10,10 @@
 
 <video src='https://video.spup.buzz/2024-06-06-21-09-28.mov'></video>
 
+### 自动布局
+
+<video src='https://video.spup.buzz/2024-06-21-23-33-42.mov'></video>
+
 ## UI 框架
 
 ### 基本功能
