@@ -1,5 +1,11 @@
 # Demo 视频
 
+## 折纸小鸟对对碰复刻 Demo
+
+### 初版 核心三消功能
+
+<video src='https://video.spup.buzz/2024-07-02-14-24-55.mov'></video>
+
 ## GraphView 框架
 
 ### 节点操作
